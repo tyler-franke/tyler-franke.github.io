@@ -1,0 +1,7 @@
+<!DOCTYPE html>
+<html>
+<body>
+<h1>Hello!</h1>
+<p>This is the personal webpage of Tyler Franke. As you can probably tell, it is a work-in-progress.</p>
+</body>
+</html>
